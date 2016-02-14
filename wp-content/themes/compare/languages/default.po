@@ -1,0 +1,4253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Compare\n"
+"POT-Creation-Date: 2015-08-31 09:33+0100\n"
+"PO-Revision-Date: 2015-08-31 09:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: powerthemes <support@powerthemes.club>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_n_noop\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\compare\\wp-content\\themes\\compare\n"
+
+#: C:\wamp\www\compare\wp-content\themes\compare/404.php:11
+msgid "404 Error Page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/404.php:23
+msgid "Sorry but this post or page does not exists!"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:31
+#: C:\wamp\www\compare\wp-content\themes\compare/single-product.php:45
+msgid "Reviews"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:31
+msgid "Comments"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:55
+#: C:\wamp\www\compare\wp-content\themes\compare/index.php:18
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:140
+msgid "Prev"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:56
+#: C:\wamp\www\compare\wp-content\themes\compare/index.php:19
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:141
+msgid "Next"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:83
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:149
+msgid "Leave Review"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:83
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:149
+msgid "Leave Comment"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:94
+msgid "Rating"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:112
+msgid "SUBMIT REVIEW"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:112
+msgid "SUBMIT COMMENT"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:117
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:79
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:95
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:638
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:671
+msgid "Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:123
+msgid "Email"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:130
+msgid "Comment"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:134
+msgid "or cancel reply"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/comments.php:153
+msgid "You have already reviewed this product"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:52
+msgid "XML / CSV Feed Structure"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:60
+msgid "ELEMENT"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:63
+msgid "EXPLANATION"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:66
+msgid "EXAMPLE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:69
+msgid "REQUIRED"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:79
+msgid ""
+"Unique identification of the product. This is being used to check if product "
+"already exists"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:85
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:99
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:155
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:183
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:197
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1134
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:92
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:181
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:173
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:414
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:507
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:761
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1004
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:93
+msgid ""
+"Name of the product. It will be used if the product is not already imported."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:96
+msgid "ASUS Notebook"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:107
+msgid ""
+"Description of the product. It will be used if the product is not already "
+"imported."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:110
+msgid "Best computer out there, with plenty of features,..."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:113
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:127
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:141
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:169
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:211
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:225
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:239
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1133
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:91
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:180
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:172
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:415
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:508
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:760
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1003
+msgid "No"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:121
+msgid ""
+"Short description of the product. It will be used if the product is not "
+"already imported."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:124
+msgid "Best computer out there, with plenty of features."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:135
+msgid ""
+"URL to the product on your store. If this is empty link to your store will "
+"be used instead."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:138
+msgid "http://www.google.com"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:149
+msgid ""
+"Comma separated list of the categories. Comma separation is for the nesting "
+"of the categories."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:152
+msgid "Cloth, Man, Shoes"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:163
+msgid "Comma separated list of the tags."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:166
+msgid "black,new,brand"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:177
+msgid "Manufacturer name of the product."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:180
+msgid "apple"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:191
+msgid ""
+"Price of the product. Field requires number only with decimals separated "
+"with dot (.) if the price has any."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:194
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:208
+msgid "10.99"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:205
+msgid ""
+"Shipping of the product. Field requires number only with decimals separated "
+"with dot (.) if the price has any."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:219
+msgid "Small desciption for the shipping comment."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:222
+msgid "We do not deliver on Saturday."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:233
+msgid "Input URL to the featured image of the product."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:236
+msgid "https://image_link.png"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:245
+msgid "See working XML example"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/footer.php:246
+msgid "See working CSV example"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:35
+msgid "Redux Options"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:45
+msgid "Smeta"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:55
+msgid "User Avatars"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:65
+msgid "Compare CPT"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:91
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:92
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:93
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:94
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:95
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:96
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:97
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:98
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:99
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:100
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:101
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:102
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:103
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:104
+msgid "Activate installed plugin"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:105
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:106
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:399
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:107
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:180
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:2
+msgid "Stores"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:227
+msgid "Stores are deleted"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:243
+msgid "Store is deleted"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:320
+msgid "New store is added"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:361
+msgid "Store is updated"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:372
+msgid "Store slug must be unique."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:383
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1764
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3193
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3267
+msgid "All fields are required."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:420
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:436
+msgid "Appears on the right side of the blog."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:440
+msgid "Page Sidebar Right"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:456
+msgid "Appears on the right side of the page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:460
+msgid "Page Sidebar Left"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:476
+msgid "Appears on the left side of the page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:480
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:496
+msgid "Appears on the right side of the contact page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:500
+msgid "Register Store Page Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:516
+msgid "Appears on the right side of the register store page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:520
+msgid "Search Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:536
+msgid "Appears on the left side of the search page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:540
+msgid "Product Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:556
+msgid "Appears on the right side of the product page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:560
+msgid "Bottom Sidebar 1"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:566
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:576
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:586
+msgid "Appears at the bottom of the page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:570
+msgid "Bottom Sidebar 2"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:580
+msgid "Bottom Sidebar 3"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:596
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/sidebar.php:28
+msgid "Home Sidebar "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:612
+msgid "Used for the widget area on home page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:623
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:226
+msgid "Mega Menu Sidebar "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:629
+msgid "This will be shown as the dropdown menu in the navigation."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:805
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:806
+msgid "Top Left Navigation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:951
+msgid "Embed URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:953
+msgid "Input custom URL which will be embeded as the blog post media."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:958
+msgid "Standard Post Information"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:966
+msgid "Gallery Images"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:969
+msgid ""
+"Add images for the gallery post format. Drag and drop to change their order."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:974
+msgid "Gallery Post Information"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:983
+msgid "Audio URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:985
+msgid ""
+"Input url to the audio source which will be media for the audio post format."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:990
+msgid "Audio Type"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:993
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1018
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1151
+msgid "Embed"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:994
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1019
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1152
+msgid "Direct Link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:996
+msgid ""
+"Select format of the audio URL ( Direct Link - for mp3, Embed - for the "
+"links from SoundCloud, MixCloud,... )."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1001
+msgid "Audio Post Information"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1009
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1142
+msgid "Video URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1011
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1144
+msgid ""
+"Input url to the video source which will be media for the audio post format."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1015
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1148
+msgid "Video Type"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1021
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1154
+msgid ""
+"Select format of the video URL ( Direct Link - for ogg, mp4..., Embed - for "
+"the links from YouTube, Vimeo,... )."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1026
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1159
+msgid "Video Post Information"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1034
+msgid "Input Quotation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1036
+msgid "Input quote as blog media for the quote post format."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1040
+msgid "Input Quoted Person's Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1042
+msgid "Input quoted person's name for the quote post format."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1047
+msgid "Quote Post Information"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1055
+msgid "Input Link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1057
+msgid "Input link as blog media for the link post format."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1062
+msgid "Link Post Information"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1070
+msgid "Product In Short"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1072
+msgid "Input short description of the product."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1076
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3941
+msgid "Product Clicks"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1078
+msgid ""
+"This field is auto populated and it is used to order products by most "
+"popular. It represents number of clicks to product single page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1083
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3942
+msgid "Product Store Clicks"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1085
+msgid ""
+"This field is auto populated and it is used to order products by best "
+"sellers. It represents number of clicks to \"Visit Website\" on product "
+"single page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1090
+msgid "Product Unique ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1092
+msgid "This is product unique ID. Field is populated via feed import."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1098
+msgid "Product Details"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1106
+msgid "Slides"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1111
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:31
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:83
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:47
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:100
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/banner.php:27
+msgid "Image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1116
+msgid "Link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1124
+msgid "Show Slider On Category"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1130
+msgid "Show Slider On All Categories Seach"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1166
+msgid "Slider Data"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1175
+msgid "Parser Format"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1178
+msgid "XML"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1179
+msgid "CSV"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1181
+msgid "Select Parser Format. ( required )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1185
+msgid "Product Root"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1187
+msgid ""
+"Input feed product root. ( required ) If format is CSV then write here "
+"products/product as this will be root element after the CSV to XML "
+"conversion."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1192
+msgid "Product Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1194
+msgid "Input feed product name. ( required )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1199
+msgid "Product Categories"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1201
+msgid "Input feed product categories. ( required )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1206
+msgid "Parser Categories Separator"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1208
+msgid "Input separator of the categories"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1213
+msgid "Product Tags"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1215
+msgid "Input feed product tags."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1220
+msgid "Parser Tags Separator"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1222
+msgid "Input separator of the tags"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1227
+msgid "Product Brand"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1229
+msgid "Input feed product brand. ( required )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1234
+msgid "Product Price"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1236
+msgid "Input feed product price. ( required )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1241
+msgid "Product URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1243
+msgid "Input feed product url."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1248
+msgid "Product ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1250
+msgid "Input feed product id. ( required )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1255
+msgid "Product Description"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1257
+msgid "Input feed description."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1262
+msgid "Product Short Description"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1264
+msgid "Input feed short description."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1269
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1276
+msgid "Product Shipping"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1271
+msgid "Input feed product shipping."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1278
+msgid "Input feed short shipping comment."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1283
+msgid "Product Image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1285
+msgid "Input feed product image."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1291
+msgid "Feed Details"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1309
+msgid "None"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1730
+msgid "Name: "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1731
+msgid "Email: "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1732
+msgid "Message: "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1737
+msgid "Your message was successfully submitted."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1743
+msgid "Unexpected error while attempting to send e-mail."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1750
+msgid "Message is not send since the recepient email is not yet set."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1757
+msgid "Email is not valid."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1771
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3201
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3273
+msgid "Captcha is wrong."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1797
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1803
+msgid "You have successfully subscribed to the newsletter."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1808
+msgid "API data are not yet set."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1812
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1868
+msgid " ago"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:1902
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2230
+msgid "Home"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2235
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:194
+msgid "404 Page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2239
+msgid "Category - "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2243
+msgid "Tag - "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2247
+msgid "Search"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2248
+msgid "Reviews written by "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2252
+msgid "Posts written by "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2257
+msgid "Search results for: "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2261
+msgid "Archive for "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2264
+msgid "Product search results"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2273
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2277
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box-alt.php:41
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box.php:40
+msgid " in "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2282
+msgid " tagged with "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2285
+msgid " for"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2374
+msgid "Error: please fill the required field (review)."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2874
+msgid "Manage Stores"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2897
+msgid "Select Store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2910
+msgid "Input Price ( just number )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2915
+msgid "Input Link To Product Or Leave empty For Store URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2920
+msgid "Input Shipping Fee (just number)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2925
+msgid "Input Shipping Comment"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2929
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2930
+msgid "Save"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2930
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:2947
+msgid "Options will be visible once you create post"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3065
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_packages.php:56
+msgid " & "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3065
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:283
+msgid " days"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3173
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3255
+msgid ""
+"Store is saved. In order to be available you need to pay the submittion "
+"using one of the available methods bellow."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3179
+msgid "Store is registered. Thank you."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3186
+msgid "Store is already registered."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3261
+msgid "Wrong store ID."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3303
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3329
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3347
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3465
+msgid "Store XML Submition"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3305
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3329
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3467
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3559
+msgid "Payment for displaying products via feed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3329
+msgid "Processing..."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3371
+msgid "Select Your Bank"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3478
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3528
+msgid "Your store is successfully registered. You will be contacted soon."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3481
+msgid "You have already registered store with this tranaction ID."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3484
+msgid ""
+"There was an error processing yor request. Please contact administration of "
+"the site with this error message:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3488
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3536
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3570
+msgid "Wrong store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3522
+msgid "Something went wrong: "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3565
+msgid "Could not retrive bank URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3581
+msgid ""
+"Once iDEAL confirms payment you will receive mail notification on the email "
+"address you have inputed during registration. Thank You."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3609
+msgid ""
+"iDEAL payment verification was successfull. Your store is added to the list "
+"and you will be contacted shortly."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3612
+msgid ""
+"iDEAL payment verification has failed. If you think that this is an error "
+"contact our administration "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3612
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3671
+msgid "here"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3626
+msgid "iDEAL Payment Confirmation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3636
+msgid ""
+"Once skrill confirms payment you will receive mail notification on the email "
+"address you have inputed during registration. Thank You."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3668
+msgid ""
+"Skrill payment verification was successfull. Your store is added to the list "
+"and you will be contacted shortly."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3671
+msgid ""
+"Skrill payment verification has failed. If you think that this is an error "
+"contact our administration "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3685
+msgid "Skrill Payment Confirmation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3702
+msgid ""
+"Make your payment directly into our bank account. Please use your Store name "
+"as the payment reference. Your order won’t be processed until the funds have "
+"cleared in our account."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3703
+msgid "Our Bank Details"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3707
+msgid "ACCOUNT NUMBER"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3711
+msgid "SORT CODE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3715
+msgid "IBAN"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3719
+msgid "BIC"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3769
+msgid "Once Weekly"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/functions.php:3773
+msgid "Once Monthly"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/header.php:117
+#: C:\wamp\www\compare\wp-content\themes\compare/header.php:134
+msgid "REGISTER YOUR STORE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/header.php:160
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:100
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:110
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/categories.php:7
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:305
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:186
+#: C:\wamp\www\compare\wp-content\themes\compare/single-product.php:47
+msgid "Categories"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/header.php:167
+msgid "What are you shopping for?"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/blog-box.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/single.php:32
+msgid " by "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/blog-box.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/single.php:32
+msgid " with "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/blog-box.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/single.php:32
+msgid "0 comments"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/blog-box.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/single.php:32
+msgid "1 comment"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/blog-box.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/single.php:32
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2443
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:47
+msgid "Status"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:4
+msgid "STORE FEED IMPORT PROCESS STARTED"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:20
+msgid ""
+"Your store will expire and feed associated with your store will be deleted "
+"unless you prolongate your package."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:21
+msgid "Time remaining: "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:22
+msgid ""
+"In order to prolongate your store visit link bellow and select your new "
+"package."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:25
+msgid "Store Is About To Exipre - Notification"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:26
+msgid "Store is about to expire, owner has been informed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:31
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:134
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:143
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:194
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:198
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:37
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:70
+msgid "Store "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:37
+msgid " has no feed associated with it."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:61
+msgid ""
+"Your store has been expired and feed associated with your store have been "
+"deleted."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:62
+msgid ""
+"In order to activate your store again visit link bellow and select your new "
+"package."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:65
+msgid "Store Has Expired - Feeds Removed"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:66
+msgid "Store has expired, owner has been informed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:70
+msgid " is disabled since it is not paid for."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import-store.php:74
+msgid "STORE FEED IMPORT PROCESS COMPLETED"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:73
+msgid "Downloading image: "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:100
+msgid "Image "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:100
+msgid " exists, skipping import and using existing one."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:237
+msgid "Product "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:237
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:245
+msgid " has been added."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:245
+msgid "Price feed for "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:250
+msgid "Product unique ID is required, skipping this product"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:254
+msgid "Product price is required, skipping this product"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:258
+msgid "Product brand is required, skipping this product"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:262
+msgid "Product category is required, skipping this product"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:266
+msgid "Product name is required, skipping this product"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:283
+msgid " day"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:328
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:336
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/parsers.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:342
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/import/import.php:387
+msgid "Importing feed for product: <strong>"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:114
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:118
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:142
+msgid "Move up"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:155
+msgid "Move down"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:157
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:159
+msgid "Edit Menu Item"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:168
+msgid "URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:175
+msgid "Navigation Label"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:181
+msgid "Title Attribute"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:188
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:193
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:199
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:205
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:80
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:96
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/description.php:7
+msgid "Description"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:207
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:217
+msgid "Assign Mega Menu"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:219
+msgid "No Mega Menu"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:243
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:256
+msgid "Remove"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/menu-extender.php:257
+msgid "Cancel"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/mollie.php:267
+msgid "There was an error processing your request"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box-alt.php:16
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box.php:16
+msgid "COMPARE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box-alt.php:41
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box.php:40
+msgid "From "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box-alt.php:41
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box.php:40
+msgid " store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box-alt.php:41
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-box.php:40
+msgid " stores"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:11
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:18
+msgid "Image:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:15
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:22
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:58
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:33
+msgid "Select Image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:16
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:43
+msgid "Select image for the brand"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:81
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:97
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:640
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:673
+msgid "Slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-brand-meta.php:82
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:98
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1041
+msgid "Products"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:11
+msgid "Icon:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:15
+msgid "Select icon for the category"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:23
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:59
+msgid "Select image for the category"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:39
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:99
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:79
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:49
+msgid "Icon"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/product-cat-meta.php:44
+msgid "Select icon for the code category"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/parsers.php:67
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/parsers.php:72
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/parsers.php:266
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/parsers.php:455
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:211
+msgid "Demo already imported"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:231
+msgid "Import Again"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:235
+msgid "Import Demo Data"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:440
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:498
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:573
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:595
+msgid "Site does not support widget"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:618
+msgid "Widget already exists"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:667
+msgid "Imported"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:670
+msgid "Imported to Inactive"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/radium-importer.php:677
+msgid "No Title"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:505
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:998
+msgid "Import WordPress"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1005
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1020
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/radium-one-click-demo-install/importer/wordpress-importer.php:1021
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes.php:71
+msgid "Add Image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes.php:76
+msgid "Add Images"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes.php:91
+msgid "Insert"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/accordion.php:56
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/tabs.php:43
+msgid "Titles"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/accordion.php:59
+msgid "Input accordion titles separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/accordion.php:65
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/tabs.php:52
+msgid "Contents"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/accordion.php:68
+msgid "Input accordion contents separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/accordion.php:76
+msgid "Accordion"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/accordion.php:78
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:121
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/banner.php:39
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:118
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:201
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:112
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:64
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gap.php:30
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:51
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:49
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:51
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:82
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:183
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:158
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/slider.php:34
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/tabs.php:65
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:48
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:73
+msgid "Content"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:31
+msgid "Close"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:43
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:20
+msgid "Text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:46
+msgid "Input alert text."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:52
+msgid "Border Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:55
+msgid "Select border color for the alert box."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:61
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:29
+msgid "Background Color Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:64
+msgid "Select background color of the alert box."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:70
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:38
+msgid "Text Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:73
+msgid "Select font color for the alert box text."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:82
+msgid "Select icon."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:88
+msgid "Closeable"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:94
+msgid "Enable or disable alert closing."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:100
+msgid "Close Icon Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:103
+msgid "Select color for the close icon."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:109
+msgid "Close Icon Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:112
+msgid "Select color for the close icon on hover."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/alert.php:119
+msgid "Alert"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/banner.php:18
+msgid "Banner Link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/banner.php:21
+msgid "Input banner link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/banner.php:30
+msgid "Select image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/banner.php:37
+msgid "Banner"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:64
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:95
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:34
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:39
+msgid "Title"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:67
+msgid "Input title."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:73
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:116
+msgid "Blogs"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:76
+msgid "Input how many blog posts to display."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:82
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:82
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:171
+msgid "Visible Items"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:85
+msgid "Input how many blog posts to be visible."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:91
+msgid "Order By"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:94
+msgid "Date Added"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:97
+msgid "Select by which field to order blogs."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:103
+msgid "Order"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:106
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:651
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:684
+msgid "Ascending"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:107
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:650
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:683
+msgid "Descending"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/blogs.php:109
+msgid "Select how to order blogs."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:55
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:61
+msgid "Button Text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:58
+msgid "Input button text."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:64
+msgid "Button Link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:67
+msgid "Input button link."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:73
+msgid "Select Window"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:76
+msgid "Same Window"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:77
+msgid "New Window"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:79
+msgid "Select window where to open the link."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:85
+msgid "Background Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:88
+msgid "Select button background color."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:94
+msgid "Background Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:97
+msgid "Select button background color on hover."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:103
+msgid "Button Border Radius"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:106
+msgid ""
+"Input button border radius. For example 5px or 5ox 9px 0px 0px or 50% or 50% "
+"50% 20% 10%."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:112
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:20
+msgid "Select Icon"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:115
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:23
+msgid "Select an icon you want to display."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:121
+msgid "Font Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:124
+msgid "Select button font color."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:130
+msgid "Font Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:133
+msgid "Select button font color on hover."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:139
+msgid "Button Size"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:142
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:168
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:145
+msgid "Normal"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:143
+msgid "Medium"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:144
+msgid "Large"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:146
+msgid "Select button size."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:152
+msgid "Button Align"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:155
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:577
+msgid "Left"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:156
+msgid "Center"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:157
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:578
+msgid "Right"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:159
+msgid "Select button align."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:165
+msgid "Select Button Width"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:169
+msgid "Full Width"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:171
+msgid "Select button alwidthign."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:177
+msgid "Display Inline"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:183
+msgid "Display button inline."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:189
+msgid "Button Margins"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:192
+msgid "Add button margins."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/button.php:199
+msgid "Button"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:73
+msgid "Categories Title"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:76
+msgid "Input tite for the categories box"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:85
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:174
+msgid "Input number how many items to be visible"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:91
+msgid "Number Of Children"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:94
+msgid "Input number how many children categories to display"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/categories.php:103
+msgid "Select categories to display"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/column.php:18
+msgid "Column Size"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/column.php:21
+msgid ""
+"Input column size. min 1 max 12. Sum of these numbers in a row must be 12."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:24
+msgid "Select Images"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:27
+msgid "Select images for the gallery."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:33
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:36
+msgid "Select image size you want to display for the thumbnails."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:42
+msgid "Columns"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:56
+msgid "Select number of columns for the thumbnails."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gallery.php:62
+msgid "Gallery"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gap.php:18
+msgid "Gap Height"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gap.php:21
+msgid "Input gap height."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/gap.php:28
+msgid "Gap"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:29
+msgid "Icon Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:32
+msgid "Select color of the icon."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:38
+msgid "Icon Size"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/icon.php:41
+msgid "Input size of the icon."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:24
+msgid "Iframe link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:27
+msgid "Input link you want to embed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:33
+msgid "Iframe Proportion"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:36
+msgid "4 by 3"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:37
+msgid "16 by 9"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:39
+msgid "Select iframe proportion."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/iframe.php:47
+msgid "Iframe"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:23
+msgid "Input label text."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:32
+msgid "Select background color of the label."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:41
+msgid "Select font color for the label text."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/label.php:49
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:61
+msgid "Label"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:37
+msgid "Input title text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:43
+msgid "Subtitle"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:46
+msgid "Input subtitle text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:52
+msgid "Placeholder"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:55
+msgid "Input placeholder text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:64
+msgid "Input button text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:70
+msgid "Background Image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:73
+msgid "Select background image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/newsletter.php:80
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:181
+msgid "Newsletter"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:22
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:142
+msgid "The Most Popular"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:29
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:143
+msgid "Best Sellers"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:36
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:144
+msgid "Latest Added"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:43
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:145
+msgid "Top Rated"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:139
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/tabs.php:63
+msgid "Tabs"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:147
+msgid "Select which tabs you wish to display"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:153
+msgid "Number Of Products"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:156
+msgid "Input number of products you wish to shiow in each panel"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:162
+msgid "Rows Of Products"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/products.php:165
+msgid "Input number of rows in which you widh to present your products"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:64
+msgid "Input progress bar label."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:70
+msgid "Label Font Size"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:73
+msgid "Input label font size."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:79
+msgid "Value"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:82
+msgid "Input progress bar value. Input number only unit is in percentage."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:88
+msgid "Progress Bar Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:91
+msgid "Select progress bar color."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:97
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:100
+msgid "Select progress bar background color."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:106
+msgid "Progress Bar Label Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:109
+msgid "Select progress bar label color."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:115
+msgid "Progress Bar Height"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:118
+msgid "Input progress bar height."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:124
+msgid "Progress Bar Label Icon"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:127
+msgid "Select icon for the label."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:133
+msgid "Progress Bar Border Radius"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:136
+msgid "Input progress bar border radius."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:142
+msgid "Progress Bar Style"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:146
+msgid "Stripes"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:147
+msgid "Active Stripes"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:149
+msgid "Select progress bar style."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/progressbar.php:156
+msgid "Progress Bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/sidebar.php:36
+msgid "Home Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/sidebar.php:38
+msgid "Select Sidebar To Show"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/slider.php:22
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/slider.php:32
+msgid "Slider"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/slider.php:25
+msgid "Select slider to show"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/tabs.php:46
+msgid "Input tab titles separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/tabs.php:55
+msgid "Input tab contents separated by /n/."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:42
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:51
+msgid "Input toggle title."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:57
+msgid "Default State"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:60
+msgid "Closed"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:61
+msgid "Opened"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:63
+msgid "Select default toggle state."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/shortcodes/toggle.php:71
+msgid "Toggle"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:110
+msgid "Overall Setup"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:111
+msgid ""
+"Here in overall setup section you can edit basic settings related to overall "
+"website."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:118
+msgid "Permalinks"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:119
+msgid "Set permalinks options."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:126
+msgid "Keyword Slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:127
+msgid "Input keyword slug."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:133
+msgid "Product Slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:134
+msgid "Input products slug."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:140
+msgid "Product Category Slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:141
+msgid "Input products category slug."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:147
+msgid "Product Brand Slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:148
+msgid "Input products brand slug."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:154
+msgid "Product Tag Slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:155
+msgid "Input products tag slug."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:162
+msgid "Search Bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:163
+msgid "Choose will you use search bar."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:175
+msgid "Enable Search Bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:176
+msgid "Choose will you use search bar or not."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:186
+msgid "Search Bar Categories"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:187
+msgid "Select which categories will be visible in the search bar."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:195
+msgid "Set 404 page options."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:203
+msgid "Error page image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:204
+msgid "Select image which will be dispalyed on the 404 page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:211
+msgid "Content Direction"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:212
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:224
+msgid ""
+"Choose overall website text direction which can be RTL (right to left) or "
+"LTR (left to right)."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:220
+msgid "LTR"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:221
+msgid "RTL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:223
+msgid "Choose Site Content Direction"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:234
+msgid "White Titles"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:235
+msgid "White titles settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:243
+msgid "White Titles Icon"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:246
+msgid "Select an icon for the white titles."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:255
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:256
+msgid "Set up looks of the site."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:263
+msgid "Main Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:264
+msgid "Select main color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:271
+msgid "Main Font Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:272
+msgid "Select font color for the items who have main color as their background"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:279
+msgid "Secondary Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:280
+msgid "Select secondary background color for the buttons"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:287
+msgid "Secondary Font Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:288
+msgid ""
+"Select font color for the elements with secondary color as their background."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:295
+msgid "Secondary Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:296
+msgid "Select secondary background color for the buttons on hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:303
+msgid "Secondary Font Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:304
+msgid ""
+"Select font color for the elements with secondary hover color as their "
+"background."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:312
+msgid "Top Bar Bg Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:313
+msgid "Select background color for the top bar and categories search."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:320
+msgid "Top Bar Font Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:321
+msgid "Select font color for the top bar."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:328
+msgid "Submenu Background Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:329
+msgid "Select backgruond color for the submenu."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:336
+msgid "Submenu Font Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:337
+msgid "Select font color for the submenu."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:344
+msgid "Submenu Border Bottom Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:345
+msgid "Select bottom border for the submenu."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:352
+msgid "Categories Background Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:353
+msgid "Select backgruond color for the categories on hover."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:360
+msgid "Categories Font Color On Hover"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:361
+msgid "Select font color for the categories on hover."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:368
+msgid "Copyrights Background Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:369
+msgid "Select background color for the copyrights."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:376
+msgid "Copyrights Font Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:377
+msgid "Select font color for the copyrights."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:384
+msgid "Copyrights Link Color"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:385
+msgid "Select link color for the copyrights."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:393
+msgid "Site Main Font"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:394
+msgid "Select main font for the site."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:403
+msgid "Top Bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:404
+msgid "Basic settings for top bar."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:411
+msgid "Show Top Bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:412
+msgid "Enable or disable top bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:422
+msgid "Facebook Link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:424
+msgid "Link to your facebook page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:429
+msgid "Twitter link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:431
+msgid "Link to your twitter page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:436
+msgid "Google link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:438
+msgid "Link to your google+ page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:443
+msgid "Top Bar Mail"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:445
+msgid "Input mail which will be displayed on the top bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:450
+msgid "Top Bar Phone Number"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:452
+msgid "Input phone number which will be displayed on the top bar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:461
+msgid "Header"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:462
+msgid "Header Compare Settings"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:469
+msgid "Logo"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:470
+msgid "Upload logo for website."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:478
+msgid "Site Logo"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:480
+msgid "Upload site logo"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:485
+msgid "Logo Padding"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:487
+msgid "Set padding for logo if needed ( set 0 if not )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:496
+msgid "Navigation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:497
+msgid "Set up basic things for navigation."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:504
+msgid "Enable Sticky Navigation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:510
+msgid "Show or hide sticky navigation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:519
+msgid "Mega Menu"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:520
+msgid "Set up mega menu."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:528
+msgid "Mega Menu Sidebars"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:529
+msgid "Input number of mega menu sidebars you wish to use."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:538
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:545
+msgid "Copyrights"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:539
+msgid "Copyrights content."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:547
+msgid "Input copyrights"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:552
+msgid "Copyrights Right Image"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:554
+msgid "Select copyrights image to the right"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:560
+msgid "Pages"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:561
+msgid "Set options for various pages."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:567
+msgid "Search Page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:568
+msgid "Set search page options."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:580
+msgid "Sidebar Position"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:582
+msgid "Select position of the sidebar on the search page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:589
+msgid "Visible Search Categories"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:591
+msgid ""
+"Number of visible categories to show on the search page. All will be visible "
+"once view more button is pressed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:598
+msgid "Visible Search Brands"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:600
+msgid ""
+"Number of visible brands to show on the search page. All will be visible "
+"once view more button is pressed."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:608
+msgid "Grid"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:609
+msgid "List"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:611
+msgid "Product Box Style"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:613
+msgid "Select style of ther product boxes."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:620
+msgid "Price Ranges"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:621
+msgid ""
+"Input price ranges available for search. One per line to add between put for "
+"example 0-1 and for the more then put for example 5."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:629
+msgid "All Categories"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:630
+msgid "Set options for the all categories page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:639
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:672
+msgid "Count"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:642
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:675
+msgid "Sort By"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:643
+msgid "Select field by which to sort the all categories listing."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:653
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:686
+msgid "Sort Order"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:654
+msgid "Select sort order for the all categories page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:662
+msgid "All Brands"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:663
+msgid "Set options for the all brands page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:676
+msgid "Select field by which to sort the all brands listing."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:687
+msgid "Select sort order for the all brands page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:695
+msgid "Registration Page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:696
+msgid "Set registration page options."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:704
+msgid "Input Price Packages"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:705
+msgid ""
+"Input price packages in the form NAME|DAYS|PRICE|ACTIVE for example "
+"<strong>Monthly|30|25.99|A</strong> or <strong>Monthly|30|25.99</strong> use "
+"numbers only."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:710
+msgid "Email Of Sender"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:712
+msgid "Input email address you wish to show on the email messages."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:717
+msgid "Name Of Sender"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:719
+msgid "Input name you wish to show on the email messages."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:727
+msgid "Contact Page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:728
+msgid "Contact page settings"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:736
+msgid "Mail"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:738
+msgid "Input email where sent messages will arrive"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:743
+msgid "Mail Subject"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:745
+msgid "Input subject for the message."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:750
+msgid "Google Map Markers"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:752
+msgid ""
+"Input longitudes and latitudes separated by comma for example "
+"92.3123,-105.54353 (longitude,latitude). <a href=\"http://www.latlong.net/\" "
+"target=\"_blank\">Find Long/Lat</a>"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:757
+msgid "Disable Scroll Zoom"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:763
+msgid "Enable or disable zoom on scroll of the contact map."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:777
+msgid "Payments"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:778
+msgid "Important Payment Settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:785
+msgid "Main Currency Unit"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:786
+msgid "Input main currency unit. ($, £, €, руб)."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:791
+msgid "Main Currency Unit Abbreviation"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:792
+msgid "Input main currency unit abbreviation.  (USD, EUR, RUB, AUD, GBP...)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:796
+msgid "Unit Position"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:797
+msgid "Select position of the unit."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:800
+msgid "Front"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:801
+msgid "Back"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:810
+msgid "PayPal API"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:811
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:968
+msgid "Important PayPal Settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:819
+msgid "PayPal Mode"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:822
+msgid "Live mode"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:823
+msgid "Testing mode"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:829
+msgid "Paypal API Username"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:830
+msgid "Input paypal API username here."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:835
+msgid "Paypal API Password"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:836
+msgid "Input paypal API password here."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:841
+msgid "Paypal API Signature"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:842
+msgid "Input paypal API signature here."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:850
+msgid "Stripe API"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:851
+msgid "Important Stripe Settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:858
+msgid "Public Client ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:860
+msgid "Input your stripe public client ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:865
+msgid "Secret Client ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:867
+msgid "Input your stripe secret client ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:874
+msgid "Skrill API"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:875
+msgid "Important Skrill Settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:882
+msgid "You skrill mail"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:884
+msgid "Input your email which is connected with your skrill account."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:889
+msgid "You skrill secret word"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:891
+msgid "Input your scrill secret word."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:898
+msgid "Bank Transfer"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:899
+msgid "Important Bank Transfer Settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:906
+msgid "Bank Account Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:908
+msgid "Input your bank account name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:913
+msgid "Bank Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:915
+msgid "Input your bank name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:920
+msgid "Bank Account Number"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:922
+msgid "Input your bank account number"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:927
+msgid "Sort Number"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:929
+msgid "Input your sort number"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:934
+msgid "IBAN Code"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:936
+msgid "Input your IBAN code"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:941
+msgid "BIC / Swift Code"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:943
+msgid "Input your BIC / Swift code"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:950
+msgid "iDEAL API"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:951
+msgid "Important Mollie iDEAL Settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:958
+msgid "Mollie ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:960
+msgid "Input your mollie ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:967
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:975
+msgid "Mail Chimp API"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:977
+msgid ""
+"Input API key of your MailChimp. More <a href=\"http://kb.mailchimp.com/"
+"accounts/management/about-api-keys\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:982
+msgid "Mail Chimp List ID"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:984
+msgid ""
+"Input ID of the ailchimp list on which the users will subscribe. More <a "
+"href=\"http://kb.mailchimp.com/lists/managing-subscribers/find-your-list-id"
+"\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:993
+msgid "Stores Cron Job"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:994
+msgid "Store cron job settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1001
+msgid "Enable Cron"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1007
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1014
+msgid "Select date  when to start with the crone job"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1012
+msgid "Start Date Of Cron"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1019
+msgid "Start Time Of Cron"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1021
+msgid "Input time when to start crno job ( format is 24h for example 13:30 )"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1026
+msgid "Repeat Cron Job"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1028
+msgid "Daily"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1029
+msgid "Meekly"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1030
+msgid "Monthly"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1033
+msgid "Select date and time when to start with the crone"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1042
+msgid "Products Settings."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1049
+msgid "Products Per Page"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1050
+msgid "Input how many products to show per page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1056
+msgid "Information In Tabs"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1057
+msgid "Information In Boxes With Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1058
+msgid "Information In Boxes Without Sidebar"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1060
+msgid "Products Single Layout"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1061
+msgid "Select layout for the product single page."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1067
+msgid "Number Of Similar Products"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1068
+msgid ""
+"Input how many similar products to show on product single or leave empty to "
+"disable."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1098
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/theme-options.php:1099
+msgid "Compare"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:90
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:90
+msgid "Try again"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:95
+msgid "An unknown error occurred"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:108
+msgid "PowerThemes Updates"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:187
+msgid "Theme Updates"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:189
+msgid "Input your data to receive information about theme updates"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:198
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:219
+msgid "Username"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:198
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:202
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:206
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:219
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:223
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:227
+msgid "required"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:202
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:223
+msgid "API"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:206
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:227
+msgid "Purchase Code"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:211
+msgid "Connect"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/update.php:232
+msgid "Disconnect"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:2
+msgid "Add New Store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:2
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:102
+msgid "Edit Store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:10
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:35
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:82
+msgid "Store Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:10
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:14
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:18
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:23
+msgid "(required)"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:14
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:38
+msgid "Store Slug"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:15
+msgid "If this field is empty it will be generated from title"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:18
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:41
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:89
+msgid "Store URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:23
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:32
+msgid "Store Logo"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:38
+msgid "Clicks Through"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:42
+msgid "Store Contact Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:46
+msgid "Store Contact Email"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:50
+msgid "Store Contact Phone"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:54
+msgid "Store Package"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:57
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:52
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:129
+msgid "Select Package"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:63
+msgid "Store Expire Date"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:66
+msgid "Time must be inputed in format m/d/Y"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:70
+msgid "Store Feed Link"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:74
+msgid "Store Status"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:77
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:89
+msgid "Paid"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:78
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:86
+msgid "Not Paid"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:83
+msgid "Store Parser"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:86
+msgid "Default"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/edit_add_store.php:102
+msgid "Add Store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:26
+msgid "STORE LOGO"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:30
+msgid "DATE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:34
+msgid "PRICE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:38
+msgid "SHIPPING"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:42
+msgid "LINK"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:47
+msgid "ACTION"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:75
+msgid "Free"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:85
+msgid "Website"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:85
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:87
+msgid "Visit Store Website"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:93
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:95
+msgid "Edit"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:96
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:18
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:103
+msgid "Delete"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list-core.php:112
+msgid "Add"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/price-list.php:7
+#: C:\wamp\www\compare\wp-content\themes\compare/single-product.php:43
+msgid "Compare Prices"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:3
+msgid "Add New"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:9
+msgid "All"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:15
+msgid "Select bulk action"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:17
+msgid "Bulk Actions"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:28
+msgid "Select All"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:44
+msgid "Click Through"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:50
+msgid "Action"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:77
+msgid "Visit Website"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:99
+msgid "Import"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/stores.php:113
+msgid "No posts found."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/views/tags.php:7
+#: C:\wamp\www\compare\wp-content\themes\compare/single-product.php:46
+msgid "Tags"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:7
+msgid "Compare Brands"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:7
+msgid "Compare Brands Widget"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:13
+msgid "Top Brands"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:59
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:159
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:324
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:393
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:473
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:539
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:62
+msgid "Brands:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:75
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:175
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:542
+msgid "Items:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:78
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:178
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:486
+msgid "Columns:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:81
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:181
+msgid "Rows:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:100
+msgid "Compare Stores"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:100
+msgid "Compare Stores Widget"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:105
+msgid "Top Stores"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:162
+msgid "Stores:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:200
+msgid "Compare Banner"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:200
+msgid "Compare Banner Widget"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:216
+msgid "Image URL:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:219
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:271
+msgid "Link:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:235
+msgid "Compare Social"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:235
+msgid "Compare Social Widget"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:268
+msgid "Logo URL:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:274
+msgid "Facebook Link:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:277
+msgid "Google+ Link:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:280
+msgid "Twitter Link:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:299
+msgid "Compare Categories"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:299
+msgid "Compare Categories Widget"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:327
+msgid "Categories:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:353
+msgid "Compare Icon Text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:353
+msgid "Compare Icon Text Widget"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:357
+msgid "Icon Text"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:397
+msgid "Title "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:400
+msgid "Icon "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:408
+msgid "Text "
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:430
+msgid "Compare Custom Menu"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:430
+msgid "Compare Custom Menu Widget For The Footer Only"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:476
+msgid "Menu:"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/includes/widgets.php:503
+msgid "Compare Latest Products"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/index.php:51
+msgid "No results found"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/media/media-video.php:12
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_contact.php:46
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:98
+msgid "Your Name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_contact.php:52
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:114
+msgid "Your Email"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_contact.php:58
+msgid "Your Message"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_contact.php:64
+msgid "SUBMIT MESSAGE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_packages.php:56
+msgid " Days"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:44
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:121
+msgid "Chose your package"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:49
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:126
+msgid "Check list of available packages"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:59
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:153
+msgid "REGISTER MY STORE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:61
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:155
+msgid "Check here XML/CSV examples"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:74
+msgid "Hash is not valid"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:84
+msgid "Input name of your store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:91
+msgid "Input link to your store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:100
+msgid "Input your full name"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:105
+msgid "Your Phone"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:107
+msgid "Input your phone with internation prefix"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:116
+msgid "Input your mail for contact"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:132
+msgid "Select package for your store"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:139
+msgid "Store Feed URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:141
+msgid "Input link to your XML / CSV products feed"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:146
+msgid "Store Logo URL"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_register_store.php:148
+msgid "Input link to your store logo"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:158
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:345
+msgid "Loading results..."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:165
+msgid "Search Filter"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:176
+msgid "Term"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:178
+msgid "Type term..."
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:189
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:203
+msgid "VIEW LESS"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:189
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:203
+msgid "VIEW MORE"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:200
+msgid "Brands"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:212
+msgid "Ratings"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:232
+msgid "Price Range"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:250
+msgid "Clear Filters"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:319
+msgid "Pick view"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:327
+msgid "Sort by"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:330
+msgid "Date Ascending"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:331
+msgid "Date Descending"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:332
+msgid "Price Ascending"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:333
+msgid "Price Descending"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:337
+msgid " match"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:337
+msgid " matches"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/page-tpl_search.php:376
+msgid "No results found to match your criteria"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/searchform.php:2
+msgid "Type term and hit enter"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/single-product.php:44
+msgid "Full Description"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/single-product.php:119
+msgid "Similar Products"
+msgstr ""
+
+#: C:\wamp\www\compare\wp-content\themes\compare/single.php:58
+msgid "TAGS: "
+msgstr ""

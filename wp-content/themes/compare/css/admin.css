@@ -1,0 +1,159 @@
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable {
+  z-index: 10000;
+}
+.shortcode-option textarea,
+.shortcode-option label,
+.shortcode-option input,
+.shortcode-option select,
+.shortcode-option .wp-picker-container,
+.shortcode-save-options.button {
+  margin: 5px 0;
+}
+.shortcode-option label {
+  display: block;
+  margin-bottom: 0;
+}
+.description {
+  margin-top: -5px;
+  color: #8f8f8f;
+  font-size: 11px;
+}
+.shortcode-option select.shortcode-field {
+  width: 100%;
+}
+.shortcode-option-thumb{
+	width: 45px;
+	height: 45px;
+}
+.shortcode-image-wrapper{
+	position: relative;
+	width: 45px;
+	height: 45px;
+	float: left;
+	margin-right: 1px;
+}
+.shortcode-images-holder, .shortcode-image-holder{
+	display: block;
+}
+.clearfix{
+	clear: both;
+	margin-bottom: 5px;
+}
+.shortcode-remove-image, .shortcode-remove-images{
+	font-size: 12px;
+	line-height: 13px;
+	height: 14px;
+	width: 14px;
+	position: absolute;
+	right: 2px;
+	top: 2px;
+	background-color: #eeeeee;
+	padding: 2px;
+	text-align: center;
+	text-decoration: none;
+}
+.ui-dialog.ui-widget.ui-widget-content.ui-corner-all.ui-front.ui-draggable.ui-resizable{
+	z-index: 99999999;
+}
+
+body.modal-open{
+	overflow: visible;
+}
+
+.image.column-image img{
+	max-width: 100%;
+	height: auto;
+}
+
+.wp-core-ui .button.delete-feed{
+	background: #d54e21;
+	border-color: #d54e21;
+	color: #ffffff;
+}
+
+.pretable-loading{
+	display: none;
+}
+/* Manage stores style - - - */
+.inside {
+    padding: 0;
+}
+.bt-table {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #f5f5f5;
+}
+.bt-table table {
+    table-layout: fixed;
+    width: 100%;
+    text-align: left;
+}
+.bt-table table thead tr th {
+    padding: 10px;
+}
+.bt-table table thead tr th i {
+    margin-right: 5px;
+}
+.bt-table table tbody tr td {
+    padding: 10px;
+    border-top: 1px solid #f5f5f5;
+}
+.bt-table table tbody tr td.shipping i {
+    margin-left: 5px;
+}
+.store-feed-form {
+    position: relative;
+}
+.store-feed-form .form-group {
+    margin-bottom: 20px;
+}
+.store-feed-form .form-group label {
+    display: inherit;
+    margin-bottom: 5px;
+}
+.close-store-feed-form {
+    position: relative;
+    top: -29px;
+    left: 55px;
+    background: #d54e21;
+    border: 1px solid #d54e21;
+    color: #ffffff;
+    padding: 5px 12px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    -webkit-box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+    box-shadow: inset 0 1px 0 #fff,0 1px 0 rgba(0,0,0,.08);
+    vertical-align: top;
+}
+tr .close-store-feed-form {
+    top: auto;
+    bottom: 0px;
+    left: 80px;
+    padding: 4px 12px;
+    position: absolute;
+}
+.close-store-feed-form:hover {
+    color: #fff;
+}
+.close-store-feed-form:active {
+    -webkit-box-shadow: inset 0 2px 5px -3px rgba(0,0,0,.5);
+    box-shadow: inset 0 2px 5px -3px rgba(0,0,0,.5);
+    color: #fff;
+}
+.remove_cat_image,
+.remove_store_logo {
+    position: relative;
+    right: 30px;
+    bottom: 7px;
+    padding: 2px 8px;
+    background-color: #fff;
+    font-size: 14px;
+    color: #888;
+    font-weight: bold;
+    text-decoration: none;
+}
+.remove_cat_image:hover,
+.remove_store_logo:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}

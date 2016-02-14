@@ -1,0 +1,16 @@
+<products>
+	<product>
+		<pid>123456</pid>
+		<name><![CDATA[ASUS Notebook]]></name>
+		<description><![CDATA[Best computer out there, with plenty of features,...]]></description>
+		<short_desc><![CDATA[Best computer out there, with plenty of features.]]></short_desc>
+		<url>http://www.google.com</url>
+		<categories><![CDATA[Cloth, Man, Shoes]]></categories>
+		<tags><![CDATA[black,new,brand]]></tags>
+		<brand><![CDATA[apple]]></brand>
+		<price>10.99</price>
+		<shipping>10.99</shipping>
+		<shipping_comment><![CDATA[We do not deliver on Saturday.]]></shipping_comment>
+		<image>https://image_link.png</image>
+	</product>
+</products>
